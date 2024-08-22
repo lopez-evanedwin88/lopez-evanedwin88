@@ -1,5 +1,11 @@
-## Hi there 👋
-
+- 👋 Hi, I’m @evan-lopez
+- 👀 I’m interested in Software Development
+- 🔭 I’m currently working on my craft as a developer
+- 🌱 I’m currently learning to survive for the next 1000 years.
+- 💞️ I’m looking to collaborate on Elon Mask.. 👀
+- 📫 How to reach me: you can reach through my personal email lopez.evanedwin@gmail.com
+- 😄 Pronouns: ["Him", "He", "Goy", "Pre", "Brad", "Braddex", "Dongski"].includes(me)
+- ⚡ Fun fact: You never knew what I knew cause of course I don't know.
 <!--
 **lopez-evanedwin88/lopez-evanedwin88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
